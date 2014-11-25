@@ -1,4 +1,0 @@
-salt
-====
-
-SaltStack project
